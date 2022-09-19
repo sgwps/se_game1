@@ -1,0 +1,15 @@
+/home/sgwps/Desktop/game_sem4/bin/Debug/net6.0/game_sem4
+/home/sgwps/Desktop/game_sem4/bin/Debug/net6.0/game_sem4.deps.json
+/home/sgwps/Desktop/game_sem4/bin/Debug/net6.0/game_sem4.runtimeconfig.json
+/home/sgwps/Desktop/game_sem4/bin/Debug/net6.0/game_sem4.dll
+/home/sgwps/Desktop/game_sem4/bin/Debug/net6.0/ref/game_sem4.dll
+/home/sgwps/Desktop/game_sem4/bin/Debug/net6.0/game_sem4.pdb
+/home/sgwps/Desktop/game_sem4/obj/Debug/net6.0/game_sem4.csproj.AssemblyReference.cache
+/home/sgwps/Desktop/game_sem4/obj/Debug/net6.0/game_sem4.GeneratedMSBuildEditorConfig.editorconfig
+/home/sgwps/Desktop/game_sem4/obj/Debug/net6.0/game_sem4.AssemblyInfoInputs.cache
+/home/sgwps/Desktop/game_sem4/obj/Debug/net6.0/game_sem4.AssemblyInfo.cs
+/home/sgwps/Desktop/game_sem4/obj/Debug/net6.0/game_sem4.csproj.CoreCompileInputs.cache
+/home/sgwps/Desktop/game_sem4/obj/Debug/net6.0/game_sem4.dll
+/home/sgwps/Desktop/game_sem4/obj/Debug/net6.0/ref/game_sem4.dll
+/home/sgwps/Desktop/game_sem4/obj/Debug/net6.0/game_sem4.pdb
+/home/sgwps/Desktop/game_sem4/obj/Debug/net6.0/game_sem4.genruntimeconfig.cache
