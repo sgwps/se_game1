@@ -458,6 +458,7 @@ namespace Game_sem4{
         
 
         public static void Draw(){
+            Console.SetCursorPosition(0, 1);
             foreach(PrintingItem[] i in Map){
                 foreach(PrintingItem j in i){
                     j.Print();
